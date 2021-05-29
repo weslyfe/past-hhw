@@ -1,3 +1,3 @@
 # past-hhw
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github/repo/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github/past-hhw/main)
