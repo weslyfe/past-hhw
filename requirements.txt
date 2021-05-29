@@ -3,6 +3,5 @@ pandas
 iosacal
 matplotlib
 plotly
-re
 ipyleaflet
 pandas
