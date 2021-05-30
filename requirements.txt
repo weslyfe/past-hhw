@@ -4,4 +4,4 @@ matplotlib
 plotly
 ipyleaflet
 pandas
-httpimport
+iosacal
