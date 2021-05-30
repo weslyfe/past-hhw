@@ -1,6 +1,5 @@
 numpy
 pandas
-iosacal
 matplotlib
 plotly
 ipyleaflet
