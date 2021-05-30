@@ -5,3 +5,4 @@ plotly
 ipyleaflet
 pandas
 iosacal
+seaborn
