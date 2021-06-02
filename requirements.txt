@@ -6,3 +6,4 @@ ipyleaflet
 pandas
 iosacal
 seaborn
+scikit-learn
