@@ -4,5 +4,5 @@ matplotlib
 plotly
 ipyleaflet
 pandas
-iosacal
+iosacal==0.5.1
 seaborn
