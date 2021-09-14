@@ -1,8 +1,8 @@
 numpy
 pandas
 matplotlib
-plotly
-ipyleaflet
+plotly==4.14.3
+ipyleaflet==0.13.6
 pandas
 iosacal==0.5.1
 seaborn
