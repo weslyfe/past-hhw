@@ -2,7 +2,7 @@
 
 This repository contains a supplementary data package for the paper titled above. The repo is configured as a Jupyter Notebook and configured to run online in a Binder format through the link below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weslyfe/past-hhw/main/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weslyfe/past-hhw/main)
 
 
 ### USAGE
